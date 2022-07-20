@@ -237,7 +237,7 @@ main {
 footer {
   background-color: #000;
   width: 100%;
-  height: 40vh;
+  height: 500px;
 }
 footer h2 {
   color: #fff;
@@ -415,9 +415,7 @@ footer .follow i:hover {
 
   footer {
     background-color: #000;
-    width: 100%;
-    height: 50vh;
-    margin: 0;
+   
   }
   .footer-button {
     display: flex;
