@@ -179,6 +179,12 @@ main {
   border-radius: 6px;
   display: flex;
   justify-content: center;
+  cursor: pointer;
+}
+.card-info p:hover{
+  background-color: #10c4d1;
+  color: #fff;
+  border: none;
 }
 .card-info h5 {
   font-weight: 600;
